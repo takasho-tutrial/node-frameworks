@@ -9,7 +9,7 @@
   "author": "github.com/taka-sho",
   "license": "ISC",
   "dependencies": {
-    "@types/react": "^16.3.1",
+    "@types/react": "^17.0.0",
     "@types/react-dom": "^16.0.4",
     "react": "^16.3.0",
     "react-dom": "^16.3.0"
